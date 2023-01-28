@@ -74,7 +74,7 @@
             android:id="@+id/rbAtbash"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="RadioButton" />
+            android:text="Atbash cipher" />
     </RadioGroup>
 
     <EditText
